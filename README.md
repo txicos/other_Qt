@@ -1,7 +1,7 @@
 # Aplicação Qt Simples
 
 Aplicação Qt onde é criada uma janela MDI na qual podem ser abertas uma janela principal e uma janela
-de mensagem.
+de mensagem. Requisitos para executar aplicativo: Qt >=5 e Ubuntu >= 16.04
 
 Para compilar, execute os comandos na baixo num shell linux:
 
